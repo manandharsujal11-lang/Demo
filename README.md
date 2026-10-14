@@ -1,2 +1,3 @@
 # Demo
-my first repository
+This is my first repository.
+Auhtor - Sujal Manandhar
